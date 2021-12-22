@@ -33,7 +33,6 @@ Hola soy Antonio
 
 
 
-
 Soy José Román Quiero participar
 
 
@@ -78,5 +77,5 @@ Hola Soy Miguel Sadhit UV
 
 Hola soy Erika Barojas
 
-
+Hola soy Cristina Sanchez
 
