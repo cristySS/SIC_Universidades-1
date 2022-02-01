@@ -107,4 +107,4 @@ Hola, Soy Edgar Mejia y quiero ser contribuidor.
 Hola soy Fernando Aldana.
 ------
 
-
+solicito pull request, Cristina
